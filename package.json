@@ -1,6 +1,6 @@
 {
-  "_from": "touchui-wx-cli2",
-  "_id": "touchui-wx-cli2@1.1.6",
+  "_from": "touchui-wx-cli",
+  "_id": "touchui-wx-cli@1.1.6",
   "_inBundle": false,
   "_integrity": "sha512-PSo28pURz8YRqk84mhH8zXEgY37VDvjUW84HCrA1zZI803ZGzxrX/kZCSZfkYIGMpUlpxDb5ytY13brsn5zDtg==",
   "_location": "/touchui-wx-cli",
